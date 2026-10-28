@@ -1,0 +1,206 @@
+F1 History Knowledge Base  Seasons 2021–2025
+Page 1
+ FORMULA 1 HISTORY
+ Knowledge Base Starter Pack
+ Seasons 2021–2025
+ Prepared for: F1 History AI Chatbot
+ A structured, searchable reference for championship facts, season summaries, key storylines,
+ and common question-answer patterns.
+Important: this is a starter knowledge document, not a complete official results database. Use the chatbot's Jolpica-F1/API data for exact
+race-by-race results and verify detailed classifications against official FIA/F1 records.
+
+F1 History Knowledge Base  Seasons 2021–2025
+Page 2
+How the chatbot should use this document
+Use this PDF as background knowledge for natural-language questions about the 2021–2025 seasons. Extract facts from
+the relevant season section and answer directly. For exact race winners, qualifying results, fastest laps, full standings, or
+detailed points calculations, check structured race data rather than guessing.
+Answering rules
+ Identify the season first; do not mix statistics from different years.
+ Distinguish the Drivers’ Championship from the Constructors’ Championship.
+ If a user asks for a finishing position (for example, “who finished second?”), return the driver at that exact position, not the
+champion by default.
+ If the document does not contain the requested fact, say so and use the live/structured data source or ask a clarifying
+question.
+ Mention the season and relevant team with the answer. Points can include half-points, as in 2021.
+Champions at a glance
+ Season
+Drivers’ Champion
+Points
+Wins
+Constructors’ Champion
+Races
+2021
+Max Verstappen (Red Bull)
+395.5
+10
+Mercedes
+22
+2022
+Max Verstappen (Red Bull)
+454
+15
+Red Bull
+22
+2023
+Max Verstappen (Red Bull)
+575
+19
+Red Bull
+22
+2024
+Max Verstappen (Red Bull)
+437
+9
+McLaren
+24
+2025
+Lando Norris (McLaren)
+423
+7
+McLaren
+24
+Across these five seasons, Verstappen won four consecutive Drivers’ titles from 2021 through 2024. McLaren won the
+Constructors’ Championship in 2024 and 2025. In 2025, Lando Norris became Drivers’ Champion, narrowly ahead of
+Verstappen.
+
+F1 History Knowledge Base  Seasons 2021–2025
+Page 3
+2021 Season Guide
+A title fight decided at the final race
+Drivers’ Champion: Max Verstappen (Red Bull) — 395.5 points, 10 wins.
+Constructors’ Champion: Mercedes — 613.5 points.
+Drivers’ runner-up: Lewis Hamilton finished second in the Drivers’ Championship with 387.5 points.
+Season overview
+The 2021 season featured a close, intense championship battle between Max Verstappen and Lewis Hamilton. Verstappen
+secured his first Drivers’ Championship at the Abu Dhabi Grand Prix, the final round. Mercedes won the Constructors’
+Championship, showing that the drivers’ and teams’ titles can go to different teams.
+Quick facts
+ Season length: 22 Grands Prix.
+ Drivers’ champion: Max Verstappen; runner-up: Lewis Hamilton.
+ Constructors’ champion: Mercedes.
+ The title was decided at the final round in Abu Dhabi.
+ The 2021 points total includes half-points in the final season total; use 395.5 for Verstappen and 387.5 for Hamilton.
+
+F1 History Knowledge Base  Seasons 2021–2025
+Page 4
+2022 Season Guide
+Red Bull takes control under new regulations
+Drivers’ Champion: Max Verstappen (Red Bull) — 454 points, 15 wins.
+Constructors’ Champion: Red Bull — 759 points.
+Drivers’ runner-up: Charles Leclerc finished second in the Drivers’ Championship with 308 points.
+Season overview
+Formula 1 introduced a major technical-regulation change in 2022, including ground-effect aerodynamic cars intended to
+improve close racing. Ferrari began strongly, but Red Bull and Verstappen became dominant as the season progressed.
+Verstappen won a then-record 15 races in a season and Red Bull secured both championships.
+Quick facts
+ Season length: 22 Grands Prix.
+ Drivers’ champion: Max Verstappen; runner-up: Charles Leclerc.
+ Constructors’ champion: Red Bull.
+ Ferrari’s early challenge faded as Red Bull delivered stronger results over the season.
+ The Japanese Grand Prix was the event at which Verstappen clinched the title.
+
+F1 History Knowledge Base  Seasons 2021–2025
+Page 5
+2023 Season Guide
+A record-setting Verstappen and Red Bull season
+Drivers’ Champion: Max Verstappen (Red Bull) — 575 points, 19 wins.
+Constructors’ Champion: Red Bull — 860 points.
+Drivers’ runner-up: Sergio Pérez finished second in the Drivers’ Championship with 285 points.
+Season overview
+Red Bull dominated the 2023 season. Verstappen won 19 of the 22 Grands Prix and accumulated 575 points, one of the
+most dominant campaigns in the sport’s history. Red Bull won 21 of the 22 races and secured the Constructors’
+Championship. Pérez’s second place gave Red Bull a one-two finish in the Drivers’ standings.
+Quick facts
+ Season length: 22 Grands Prix.
+ Drivers’ champion: Max Verstappen; runner-up: Sergio Pérez.
+ Constructors’ champion: Red Bull.
+ Verstappen scored 575 points and won 19 races.
+ Sergio Pérez scored 285 points and finished second in the Drivers’ Championship.
+ Red Bull won 21 of the 22 Grands Prix.
+
+F1 History Knowledge Base  Seasons 2021–2025
+Page 6
+2024 Season Guide
+Verstappen wins the drivers’ title; McLaren wins the teams’ title
+Drivers’ Champion: Max Verstappen (Red Bull) — 437 points, 9 wins.
+Constructors’ Champion: McLaren — 666 points.
+Drivers’ runner-up: Lando Norris finished second in the Drivers’ Championship with 374 points.
+Season overview
+The 2024 season was more competitive than 2023. Verstappen built an early lead and secured his fourth consecutive
+Drivers’ Championship, while McLaren’s strong results from Lando Norris and Oscar Piastri helped the team win its first
+Constructors’ title since 1998. Ferrari also mounted a strong challenge in the Constructors’ standings.
+Quick facts
+ Season length: 24 Grands Prix.
+ Drivers’ champion: Max Verstappen; runner-up: Lando Norris.
+ Constructors’ champion: McLaren.
+ Verstappen clinched the Drivers’ title at the Las Vegas Grand Prix.
+ McLaren finished ahead of Ferrari and Red Bull in the Constructors’ Championship.
+ Charles Leclerc won the Monaco Grand Prix.
+
+F1 History Knowledge Base  Seasons 2021–2025
+Page 7
+2025 Season Guide
+Lando Norris wins a close championship
+Drivers’ Champion: Lando Norris (McLaren) — 423 points, 7 wins.
+Constructors’ Champion: McLaren — 833 points.
+Drivers’ runner-up: Max Verstappen finished second in the Drivers’ Championship with 421 points; Oscar Piastri finished
+third with 410 points.
+Season overview
+McLaren entered 2025 as a leading team and retained the Constructors’ Championship. The Drivers’ title fight involved
+Norris, teammate Oscar Piastri, and Verstappen. Norris ultimately won the Drivers’ Championship by two points over
+Verstappen, with the title decided at the final round in Abu Dhabi.
+Quick facts
+ Season length: 24 Grands Prix.
+ Drivers’ champion: Lando Norris; runner-up: Max Verstappen; third: Oscar Piastri.
+ Constructors’ champion: McLaren.
+ Norris scored 423 points; Verstappen scored 421; Piastri scored 410.
+ Norris and Piastri each won seven Grands Prix.
+ McLaren secured the Constructors’ Championship before the season ended.
+
+F1 History Knowledge Base  Seasons 2021–2025
+Page 8
+Common chatbot questions and grounded answers
+ Question
+Expected answer from this guide
+Who won the 2021 Drivers’ Championship?
+Max Verstappen, Red Bull, 395.5 points.
+Who won the 2021 Constructors’ Championship?
+Mercedes, 613.5 points.
+Who won the 2022 Drivers’ Championship?
+Max Verstappen, Red Bull, 454 points.
+Who finished second in the 2023 Drivers’
+Championship?
+Sergio Pérez, 285 points.
+How many points did Max Verstappen score in
+2023?
+575 points.
+Who won the 2024 Monaco Grand Prix?
+Charles Leclerc (Ferrari).
+Who won the 2024 Drivers’ Championship?
+Max Verstappen, 437 points.
+Which team won the 2024 Constructors’
+Championship?
+McLaren, 666 points.
+Who won the 2025 Drivers’ Championship?
+Lando Norris, 423 points.
+By how many points did Norris beat Verstappen
+in 2025?
+Two points: Norris 423, Verstappen 421.
+Suggested retrieval keywords
+F1, Formula 1, season, Drivers’ Championship, Constructors’ Championship, points, race winner, Grand Prix, Monaco, Abu
+Dhabi, Max Verstappen, Lewis Hamilton, Charles Leclerc, Sergio Pérez, Lando Norris, Oscar Piastri, Red Bull, Mercedes,
+McLaren, Ferrari, 2021, 2022, 2023, 2024, 2025.
+Limitations and source notes
+This is a curated educational summary written for a chatbot prototype. It is not an official FIA or Formula 1 publication, and it
+does not contain every race classification, qualifying result, pit stop, fastest lap, penalty, or complete driver/team standings.
+Championship facts were cross-checked against public historical season summaries and official F1/FIA material where
+available. For production use, prefer official Formula 1/FIA records and structured historical data such as the Jolpica-F1 API.
+Reference links
+ F1 Index season archive: https://www.f1index.com/history
+ Formula 1 official team year-by-year pages: https://www.formula1.com/
+ FIA 2024 media kit (official results and standings):
+https://www.fia.com/sites/default/files/spg2025_0062_f1_mediakit_2025_eng_a4_250623_view.pdf
+ Jolpica-F1 API documentation: https://api.jolpi.ca/docs/
+ Jolpica-F1 project documentation: https://github.com/jolpica/jolpica-f1
+

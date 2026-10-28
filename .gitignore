@@ -1,0 +1,47 @@
+# Virtual environment
+.venv
+
+# Python cache and build artifacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Environment variables (do not commit)
+.env
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Generated cache files
+*.cache
+*.pytest_cache/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Generated cache files (not bundled local data)
+data/cache/*.json
+
+# Extra Python environment folders
+venv/
+.venv/
+
+# Secrets and environment files
+.env
+.env.*
+!.env.example
+
+# Test caches
+.pytest_cache/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# F1 downloaded data cache
+data/cache/
